@@ -1,0 +1,4 @@
+DATA BRIN 
+- Data Ini berkaitan dengan data magang kedepannya 
+- Harus membuat software yang Bagus
+- Data tidak boleh kesebar
